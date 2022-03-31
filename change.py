@@ -8,4 +8,6 @@ print('hello')
 
 print('change can be made?')
 
-print "making revisions to code"
+print ("making revisions to code")
+
+print('new changes visible or not?')
